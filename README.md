@@ -19,14 +19,14 @@ guitar deal, and the user's list of favorite guitars.
 Your product owner has created a list of prioritized user stories for you to work down.
 
 ```
-1. As a user, I need to see the name of the company
-1. As a user, I need to be able to navigate to the store so I can browse for guitars
-1. As a company, we need our contact information to be accessible so that our users can easily contact us 
-1. As a user, I need to see the weekly guitar deal 
-1. As a user, I need to see my list of favorited guitars 
-1. As a user, I need a way to unfavorite a guitar from my list
-1. As a company, we need to communicate that our material is copyrighted
-1. As a company, we need a color theme and font style to create an aesthetically pleasing brand that our users can recognize 
+As a user, I need to see the name of the company
+As a user, I need to be able to navigate to the store so I can browse for guitars
+As a company, we need our contact information to be accessible so that our users can easily contact us 
+As a user, I need to see the weekly guitar deal 
+As a user, I need to see my list of favorited guitars 
+As a user, I need a way to unfavorite a guitar from my list
+As a company, we need to communicate that our material is copyrighted
+As a company, we need a color theme and font style to create an aesthetically pleasing brand that our users can recognize 
 ```
 
 ## Wireframe
