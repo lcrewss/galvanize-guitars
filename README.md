@@ -28,18 +28,11 @@ As a user, I need a way to unfavorite a guitar from my list
 As a company, we need to communicate that our material is copyrighted
 As a company, we need a color theme and font style to create an aesthetically pleasing brand that our users can recognize 
 ```
-
 ## Wireframe
 
 Before you code anything, read through the user stories. Design a wireframe that will improve
 the *user experience* by implement effective visual hierarchy and design techniques like balance, 
 movement, forgiveness, etc.
-
-## APIs
-
-The project requires you to use the mock data from the `guitars.json` file. The images are included
-in the `assets` directory. Include them into your project and requests the data to populate the user's 
-weekly guitar deal and favorites list. 
 
 ## Notes
 
@@ -49,3 +42,10 @@ weekly guitar deal and favorites list.
 - Your site does not need to have any functionality (navigation, persist data, etc.)
 - Does not have to be responsive
 - Practice feature-branch workflow
+
+## Stretch - API
+
+Mock data is provided in the `guitars.json` file (the images are included in the `assets` directory). 
+Include the files into your project and request the data to populate the user's weekly guitar deal 
+and favorites list. 
+
