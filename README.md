@@ -37,8 +37,9 @@ movement, forgiveness, etc.
 
 ## APIs
 
-The project requires you to use the mock data from the `guitars.json` file. Include into your
-project and requests the data to populate the user's weekly guitar deal and favorites list. 
+The project requires you to use the mock data from the `guitars.json` file. The images are included
+in the `assets` directory. Include them into your project and requests the data to populate the user's 
+weekly guitar deal and favorites list. 
 
 ## Notes
 
