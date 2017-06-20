@@ -8,8 +8,6 @@
       flex: 1 0 auto;
     }
 
-    .logo{
-      height: 200px;
-      width: 50%;
-      background-color: powderblue;
-    }
+  p {
+    margin-left: 20em;
+  }
