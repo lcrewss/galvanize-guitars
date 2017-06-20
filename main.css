@@ -2,6 +2,7 @@
       display: flex;
       min-height: 100vh;
       flex-direction: column;
+      background-color:lightgrey;
     }
 
     main {
@@ -9,5 +10,24 @@
     }
 
   p {
-    margin-left: 20em;
+    color: blue;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: 200%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
   }
+  .favoriteList{
+    display: flex;
+    flex-direction: row;
+  }
+  .row{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0px;
+  }
+.page-footer{
+  padding-top: 0px;
+  margin: 0em;
+}
