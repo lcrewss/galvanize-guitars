@@ -8,19 +8,26 @@
     main {
       flex: 1 0 auto;
     }
+    .chip {
+      display: flex;
+      justify-content: flex-end;
+      cursor: pointer;
+    }
 
   p {
-    color: blue;
+    color: white;
     font-weight: bolder;
     font-style: oblique;
     font-size: 200%;
-    background-color: black;
+    background-color: #37474f ;
     display: flex;
     justify-content: center;
+    cursor: pointer;
   }
   .favoriteList{
     display: flex;
     flex-direction: row;
+    justify-content: space-between;
   }
   .row{
     display: flex;
