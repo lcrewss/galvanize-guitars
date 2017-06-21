@@ -3,10 +3,20 @@
       min-height: 100vh;
       flex-direction: column;
       background-color:lightgrey;
+      /*background-image: url("https://previews.123rf.com/images/alancotton/alancotton1411/alancotton141100021/33271134-The-definitive-rock-and-roll-guitar-in-black-isolated-over-a-white-grunge-background--Stock-Vector.jpg");*/
     }
 
     main {
       flex: 1 0 auto;
+    }
+
+    .backgroundImg{
+      position: absolute;
+      height: 155%;
+      width: 100%;
+      z-index: -1;
+      opacity: 0.7;
+      border-left: 0;
     }
     .chip {
       display: flex;
@@ -14,27 +24,31 @@
       cursor: pointer;
     }
 
-  p {
-    color: white;
-    font-weight: bolder;
-    font-style: oblique;
-    font-size: 200%;
-    background-color: #37474f ;
-    display: flex;
-    justify-content: center;
-    cursor: pointer;
-  }
-  .favoriteList{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-  }
-  .row{
-    display: flex;
-    justify-content: flex-end;
-    padding: 0px;
-  }
-.page-footer{
-  padding-top: 0px;
-  margin: 0em;
-}
+    p {
+      color: yellow;
+      font-weight: bolder;
+      font-style: oblique;
+      font-size: 200%;
+      background-color: #37474f ;
+      display: flex;
+      justify-content: center;
+      cursor: pointer;
+    }
+
+    .favoriteList{
+      display: flex;
+      flex-direction: row;
+      /*justify-content: space-between;
+      float: left;*/
+    }
+
+    .row{
+      display: flex;
+      justify-content: flex-end;
+      padding: 0px;
+    }
+
+    .page-footer{
+    padding-top: 0px;
+    margin: 0em;
+    }
